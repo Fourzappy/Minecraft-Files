@@ -1,0 +1,57 @@
+Mods I want:
+
+Chisels and bits
+Web display
+World edit
+Immersive portals
+Vm computers
+LiteMatica
+Create (community modular mods)
+Physics setting mod
+Sophisticated backpacs
+Bullet boats
+Crypto
+Chest cavity
+Redstone tools
+supplementaries
+---------------------------------------------------
+Bugrock compatibal:
+
+effects:
+effect {username/ @ location} {effect} {time (seconds)} {level (max: 255)} {true/false (show particals)}
+
+resistance
+strength
+fire_resistance
+water_breathing
+night_vision
+absorbtion
+saturation
+health_boost
+haste
+luck
+jump_boost
+-----------------------
+Java only:
+
+change player size:
+/attribute {username} minecraft:scale base set {value}
+
+freeze time:
+/tick freeze
+---------------------------------------------------
+Snapshots and seeds:
+
+snapshots:
+20w14infinite (april fools, infinite dimentions)
+----------------------
+Bugrock edition:
+
+Seed: 7360672562458547898
+Coordinates: -760, x, 200
+
+Seed: 248329540035452975
+Coordinates: 100, -20, 20
+
+Seed: -8591900330462080048
+Coordinates: 640, xxx, -1000
